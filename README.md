@@ -3,13 +3,12 @@
 </div>
 
 ## Contents
+
 1. [Personal Website](#)
-
----
-
-## Personal Website
-
-*[_View the Full Project_](#)*
+   
+<p align="center">
+  <img src="./personal-website_demo.gif" width="100%">
+</p>
 
 <sub>[⬅ Back to Contents](#contents)</sub>
 
