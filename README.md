@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Full-Stack Development & Product Design</h1>
+  <h1>Full-Stack Development</h1>
 </div>
 
 ## Contents
