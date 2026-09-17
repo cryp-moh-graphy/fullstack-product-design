@@ -13,7 +13,7 @@
    **Product demo — Cinegraph**
 
    <p align="center">
-     <img src="./" width="100%">
+     <img src="./Cinegraph_GraphicDesign.jpg" width="100%">
    </p>
 
 <sub>[⬅ Back to Contents](#contents)</sub>
