@@ -2,25 +2,21 @@
   <h1>Full-Stack Development</h1>
 </div>
 
-## Contents
+### [Cinegraph (Streaming Commerce Platform)](#)
 
-1. [Cinegraph (Streaming Commerce Platform)](#)
+**Cinegraph** showcases both product design and full-stack engineering: a deliberately iterated visual design system (typography, color, motion, accessibility) paired with a complete application stack –– REST + GraphQL APIs, a relational database with transactional integrity, and third-party API integration with a secure backend proxy pattern.
 
-   **Cinegraph** combines high-end editorial typography with modern, minimal product design. The experience also features a deterministic, client-side conversational retrieval system built without AI or external services.
-
-   <br>
-
-   **Product demo — Cinegraph**
-
-   <p align="center">
-     <img src="./Cinegraph_GraphicDesign.jpg" width="100%">
-   </p>
+<p align="center">
+  <img src="./Cinegraph_GraphicDesign.jpg" width="100%">
+</p>
 
 <sub>[⬅ Back to Contents](#contents)</sub>
 
 ---
 
-2. [Personal Website / Portfolio](#personal-website--portfolio) — **iM-Engr**
+<sub>[View more examples of **Product & Visual Design**.](https://github.com/cryp-moh-graphy/fullstack-product-design)</sub>
+
+### [Personal Website / Portfolio](#personal-website--portfolio) — **iM-Engr**
 
 [**iM-Engr**](https://github.com/cryp-moh-graphy/personal-website/blob/main/README.md) is a personal portfolio focused on **front-end development and product design**, combining high-end editorial typography with a modern, minimal user interface.
 
