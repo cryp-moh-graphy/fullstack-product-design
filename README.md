@@ -2,7 +2,7 @@
   <h1>Full-Stack Development</h1>
 </div>
 
-### [Cinegraph (Streaming Commerce Platform)](#)
+### [**LIVE SITE - Cinegraph (Streaming Commerce Platform)**](#)
 
 **Cinegraph** showcases both product design and full-stack engineering: a deliberately iterated visual design system (typography, color, motion, accessibility) paired with a complete application stack –– REST + GraphQL APIs, a relational database with transactional integrity, and third-party API integration with a secure backend proxy pattern.
 
