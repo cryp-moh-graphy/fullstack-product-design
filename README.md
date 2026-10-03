@@ -4,7 +4,7 @@
 
 ### [**LIVE SITE - Cinegraph (Streaming Commerce Platform)**](#)
 
-**Cinegraph** showcases both product design and full-stack engineering: a deliberately iterated visual design system (typography, color, motion, accessibility) paired with a complete application stack –– REST + GraphQL APIs, a relational database with transactional integrity, and third-party API integration with a secure backend proxy pattern.
+**Cinegraph** combines product design with full-stack engineering, connecting an iterated **typography, color, motion, responsive, and accessibility system** to a **Node.js/Express application layer, parallel REST and GraphQL APIs, normalized SQLite data model, transactional checkout, persistent UUID-based session state, and server-side TMDb proxy/integration layer** for credential isolation, external-data normalization, and database upserts.
 
 <p align="center">
   <img src="./Cinegraph_GraphicDesign.jpg" width="100%">
